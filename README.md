@@ -39,3 +39,6 @@ With the growing reliance on mobile technologies, an increasing number of users 
 - The app may not support advanced speech recognition features like punctuation or grammar correction in the initial release.
 - Real-time accuracy of STT may vary depending on background noise and accent, which could impact transcription quality.
 - Multilingual support beyond Swahili may be limited in the initial development phase.
+
+#### **Link to Figma Mockup designs:**
+-https://www.figma.com/design/kd3e1QSTQQTvHLubcoRAUh/Untitled?node-id=0-1&t=ZKLi4KzX4Fm6YLQB-1
